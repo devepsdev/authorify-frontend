@@ -17,7 +17,7 @@ Aplicación frontend desarrollada con **React** que consume una API REST protegi
 - **React** 19
 - **React Router DOM**
 - **Bootstrap 5**
-- **Fetch API** para consumir la API REST
+- **Axios API** para consumir la API REST
 - **JWT** para autenticación segura
 
 ## 📂 Estructura del proyecto
