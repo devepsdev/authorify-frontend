@@ -45,7 +45,7 @@ frontend/
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/frontend-crud.git
+git clone    git clone https://github.com/devepsdev/authorify-frontend.git
 ```
 
 ### Entrar en el directorio
