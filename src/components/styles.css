@@ -1,0 +1,49 @@
+/* Tarjeta efecto glassmorphism */
+.card.custom-card {
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(12px);
+    border-radius: 10px;
+    color: white;
+    transition: transform 0.3s ease;
+}
+
+.card.custom-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Botón primario personalizado */
+.btn-primary {
+    background-color: #4fc3f7;
+    border-color: #4fc3f7;
+}
+
+.btn-primary:hover {
+    background-color: #29b6f6;
+    border-color: #29b6f6;
+}
+
+/* Botón acento personalizado */
+.btn-accent {
+    background-color: #ff8a65;
+    border-color: #ff8a65;
+    color: white;
+}
+
+.btn-accent:hover {
+    background-color: #ff7043;
+    border-color: #ff7043;
+}
+
+.bg {
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(12px);
+    border-radius: 10px;
+    color: white;
+}
+
+nav {
+    width: 96%;
+    margin: auto;
+}
