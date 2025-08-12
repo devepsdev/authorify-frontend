@@ -25,8 +25,7 @@ Aplicación frontend desarrollada con **React** que consume una API REST protegi
 ```Estructura
 frontend/
 │── public/
-│   ├── index.html
-│   ├── assets/ (imagenes/gifs)
+│   ├── (imagenes/gifs)
 │
 │── src/
 │   ├── api/           # Funciones para llamadas a la API
