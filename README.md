@@ -76,7 +76,7 @@ Crea un archivo `.env` en la raíz del proyecto con:
 REACT_APP_API_URL=http://localhost:8080/api
 ```
 
-## 📸 Captura de pantalla
+## 📸 Capturas de pantalla
 
 ![Captura del CRUD](public/animation.gif)
 
